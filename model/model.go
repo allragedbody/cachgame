@@ -23,10 +23,15 @@ type Gamer struct {
 
 type Share struct {
 	ShareID     string
-	ShareName   string
-	Price       float64
 	Number      float64
 	SharesTotal float64
+	AvgPrice    float64
+}
+
+type ShareInfo struct {
+	ShareID   string
+	ShareName string
+	Price     float64
 }
 
 type ShareGame struct {

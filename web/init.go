@@ -5,3 +5,4 @@ import (
 )
 
 var ShareGame model.ShareGame
+var ShareInfos map[string]model.ShareInfo

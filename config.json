@@ -1,0 +1,15 @@
+{
+    "Server": {
+        "Port": 80,
+        "Cores": 1
+    },
+    "Organization": {
+        "Name": "Enrollment securities",
+        "Retio": 0.03
+    },
+    "Country": {
+        "Name": "China",
+        "Retio": 0.10
+    }
+}
+
